@@ -1,1 +1,1 @@
-# Just-Use-i-3-rather-than-i-and-if-else
+# Just use more i++ (i.e. i+=3) rather than if else in for loop
